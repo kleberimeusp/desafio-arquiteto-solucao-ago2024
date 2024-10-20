@@ -1,5 +1,13 @@
 # Sistema de Controle de Fluxo de Caixa na Azure
 
+(MODELO ORGANIZACIONAL DE ARQUITETURA DE REFERÊNCIA)
+
+(APLICADO EM TODOS OS CLIENTES EM MODELO DE REUSO) 
+
+(MODELO DE README.MD QUE APLIQUEI EM CLIENTES INTERNACIONAIS NOS EUA/INDIA/JAPÃO E AUSTRÁLIA) 
+
+(TRADUZIDO PARA ESSE TESTE AQUI EM PORTUGUÊS)
+
 ## Descrição do Projeto
 
 Este projeto visa implementar uma solução para o controle de fluxo de caixa com backend em **Node.js** e frontend em **React Native**, ambos hospedados na **Azure**. O sistema processa lançamentos financeiros (débitos e créditos) e gera relatórios consolidados diários. A solução utiliza os principais serviços da **Azure**, garantindo escalabilidade, alta disponibilidade e monitoramento.
