@@ -2,12 +2,12 @@
 
 ## Arquitetura Alvo - Stack Proposto
 
-### Frontend: React.js (JavaScript)
-### Backend: Node.js com Express (JavaScript/TypeScript)
-### Banco de Dados: PostgreSQL (Relacional)
-### Mensageria: Kafka (Para comunicação assíncrona entre serviços)
-### Autenticação/Autorização: OAuth 2.0 e JWT
-### Auditoria e Monitoramento: Elastic Stack (ELK: Elasticsearch, Logstash, Kibana)
+- ### Frontend: React.js (JavaScript)
+- ### Backend: Node.js com Express (JavaScript/TypeScript)
+- ### Banco de Dados: PostgreSQL (Relacional)
+- ### Mensageria: Kafka (Para comunicação assíncrona entre serviços)
+- ### Autenticação/Autorização: OAuth 2.0 e JWT
+- ### Auditoria e Monitoramento: Elastic Stack (ELK: Elasticsearch, Logstash, Kibana)
 
 ---
 
