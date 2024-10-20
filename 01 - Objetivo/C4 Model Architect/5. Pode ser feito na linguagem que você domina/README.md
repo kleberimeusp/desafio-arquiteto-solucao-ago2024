@@ -19,15 +19,15 @@ O **backend** em Node.js gerencia todas as operações de negócio e persistênc
 
 #### Diagrama do Backend:
 
-![Backend](01.png)
+![Backend](C4/Components/01.png)
 
-![Backend - API Calls](02.png)
+![Backend - API Calls](C4/Components/02.png)
 
-![Backend - Data Flow](03.png)
+![Backend - Data Flow](C4/Components/03.png)
 
-![Backend - Kafka Integration](04.png)
+![Backend - Kafka Integration](C4/Components/04.png)
 
-![Backend - PostgreSQL Integration](05.png)
+![Backend - PostgreSQL Integration](C4/Components/05.png)
 
 #### Kafka Configuration:
 
@@ -49,9 +49,9 @@ O **frontend** será implementado usando **React.js**, que consumirá as APIs RE
 
 #### Diagrama do Frontend:
 
-![Frontend - UI Structure](f01.png)
+![Frontend - UI Structure](C4/Components/f01.png)
 
-![Frontend - API Calls](f02.png)
+![Frontend - API Calls](C4/Components/f02.png)
 
 ### Estruturação da Interface:
 

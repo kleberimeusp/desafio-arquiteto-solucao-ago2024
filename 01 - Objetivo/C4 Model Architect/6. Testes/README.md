@@ -17,13 +17,13 @@ Vamos começar configurando testes unitários para o backend. Usaremos o **Jest*
 
 ### Exemplos de Modelos:
 ### Modelo:
-![Testes Unitários - Exemplo 01](01.png)
+![Testes Unitários - Exemplo 01](C4/Components/01.png)
 
 ### continuação Modelo:
-![Testes Unitários - Exemplo 02](02.png)
+![Testes Unitários - Exemplo 02](C4/Components/02.png)
 
 ### continuação Modelo:
-![Testes Unitários - Exemplo 03](03.png)
+![Testes Unitários - Exemplo 03](C4/Components/03.png)
 
 ---
 
@@ -35,7 +35,7 @@ Nos testes de integração, garantimos que os componentes do sistema estão func
 Este teste verifica se o modelo de transações interage corretamente com o PostgreSQL.
 
 ### Modelo:
-![Teste de Integração - Exemplo](04.png)
+![Teste de Integração - Exemplo](C4/Components/04.png)
 
 ---
 
@@ -44,7 +44,7 @@ Este teste verifica se o modelo de transações interage corretamente com o Post
 **Supertest** será usado para garantir que as APIs estão respondendo corretamente, verificando se as rotas e os controladores funcionam como esperado.
 
 ### Modelo:
-![Teste de API - Exemplo](05.png)
+![Teste de API - Exemplo](C4/Components/05.png)
 
 ---
 
@@ -53,7 +53,7 @@ Este teste verifica se o modelo de transações interage corretamente com o Post
 **Cypress** será utilizado para realizar testes end-to-end, simulando o comportamento real do usuário no navegador, como o registro de transações e consulta de relatórios.
 
 ### Modelo:
-![Teste E2E - Exemplo](06.png)
+![Teste E2E - Exemplo](C4/Components/06.png)
 
 ---
 
@@ -64,10 +64,10 @@ Este teste verifica se o modelo de transações interage corretamente com o Post
 ### Exemplos de Modelos:
 
 ### Modelo:
-![Teste de Carga - Exemplo 01](07.png)
+![Teste de Carga - Exemplo 01](C4/Components/07.png)
 
 ### continuação Modelo:
-![Teste de Carga - Exemplo 02](08.png)
+![Teste de Carga - Exemplo 02](C4/Components/08.png)
 
 ---
 

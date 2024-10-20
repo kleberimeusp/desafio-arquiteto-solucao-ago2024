@@ -13,12 +13,12 @@ Este projeto implementa um sistema simples de controle de fluxo de caixa, permit
 ### Modelo de Dados
 Abaixo está o modelo de dados do projeto:
 
-![Modelo de Dados](01.png)
+![Modelo de Dados](C4/Components/01.png)
 
 ### Diagrama de API de Lançamentos
 A API permite o cadastro e visualização de transações e saldo.
 
-![Diagrama de API](03.png)
+![Diagrama de API](C4/Components/03.png)
 
 ## Desenvolvimento da Aplicação
 
@@ -57,13 +57,13 @@ O frontend é construído em React.js e permite a visualização e interação c
 Abaixo estão os modelos das principais telas do sistema:
 
 #### Tela de Transações
-![Tela de Transações](04.png)
+![Tela de Transações](C4/Components/04.png)
 
 #### Tela de Relatório de Saldo Diário
-![Tela de Relatório](05.png)
+![Tela de Relatório](C4/Components/05.png)
 
 #### Tela de Cadastro de Transações
-![Tela de Cadastro](06.png)
+![Tela de Cadastro](C4/Components/06.png)
 
 ## Hospedagem do Projeto
 
@@ -76,4 +76,4 @@ Abaixo estão os modelos das principais telas do sistema:
 
 ### Passo 2: Enviar o Projeto para o Servidor
 - Faça o push do projeto para o repositório criado:
-![Tela de Powershell](07.png)
+![Tela de Powershell](C4/Components/07.png)
