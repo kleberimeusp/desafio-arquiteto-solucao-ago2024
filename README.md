@@ -17,7 +17,10 @@
 6. [Estratégia de Testes para o Sistema de Controle de Fluxo de Caixa](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/6.%20Testes/README.md)
 7. [Controle de Fluxo de Caixa](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/7.%20Hospedar%20em%20reposit%C3%B3rio%20publico%20(GitHub)/README.md)
 8. [Requisitos diferenciais](#)
-9. [Requisitos Não Funcionais](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/9.%20Requisitos%20n%C3%A3o%20funcionais/README.md)
+   - 1. [Desenho da solução da Arquitetura de Transição, migração do legado](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/8.%20Requisitos%20diferenciais/1.%20Desenho%20da%20solu%C3%A7%C3%A3o%20da%20Arquitetura%20de%20Transi%C3%A7%C3%A3o%2C%20migra%C3%A7%C3%A3o%20do%20legado/README.md)
+   - 2. [ Estimativa de custos com infraestrutura e licenças](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/tree/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/8.%20Requisitos%20diferenciais/2.%20Estimativa%20de%20custos%20com%20infraestrutura%20e%20licen%C3%A7as)
+   - 3. [Monitoramento e Observabilidade](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/8.%20Requisitos%20diferenciais/1.%20Desenho%20da%20solu%C3%A7%C3%A3o%20da%20Arquitetura%20de%20Transi%C3%A7%C3%A3o%2C%20migra%C3%A7%C3%A3o%20do%20legado/README.md)
+   - 4. [Critérios de Segurança para Consumo e Integração de Serviços](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/8.%20Requisitos%20diferenciais/4.%20Crit%C3%A9rios%20de%20seguran%C3%A7a%20para%20consumo%20(integra%C3%A7%C3%A3o)%20de%20servi%C3%A7os/README.md)
 
 
 ## Descrição do Projeto
