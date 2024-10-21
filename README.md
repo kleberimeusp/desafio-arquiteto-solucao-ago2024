@@ -113,6 +113,20 @@ Aqui está uma estimativa de custos aproximados com base nos serviços usados na
 
 ---
 
+# Índices
+
+1. [Introdução](#1-introdução)
+2. [Instalação](#2-instalação)
+3. [Configuração](#3-configuração)
+4. [Uso](#4-uso)
+5. [Exemplos](#5-exemplos)
+6. [API](#6-api)
+7. [Testes](#7-testes)
+8. [Contribuindo](#8-contribuindo)
+9. [Licença](#9-licença)
+
+---
+
 ## Conclusão
 
 A arquitetura de nuvem Azure proposta para o backend em Node.js e frontend em React Native é projetada para garantir:
