@@ -1,4 +1,4 @@
-# Sistema de Controle de Fluxo de Caixa na Azure
+# Sistema de Controle de Fluxo de Caixa
 
 - *(MODELO CORPORATIVO DE NORMAS DA ARQUITETURA DE REFERÊNCIA, INOVAÇÃO E LEGADOS).*
 - *(APLICADO EM TODOS OS CLIENTES EM MODELO DE REUSO).* 
