@@ -1,4 +1,4 @@
-# Arquitetura de Transição para Migração de Sistema Legado
+# Desenho da solução da Arquitetura de Transição (se necessária, considerando uma migração de legado)
 
 Este documento descreve a arquitetura de transição para a migração de um sistema legado para um novo sistema. A transição é realizada de forma controlada, minimizando interrupções nas operações e garantindo a integridade dos dados. A migração é gradual, com convivência entre o sistema legado e o novo sistema.
 
