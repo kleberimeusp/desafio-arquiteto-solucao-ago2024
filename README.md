@@ -10,7 +10,7 @@
 ## Índices
 
 1. [Introdução](#1-introdução)
-2. [Instalação](#/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/1.%20Mapeamento%20de%20Domínios%20Funcionais%20e%20Capacidades%20de%20Negócio/README.md)
+2. [Instalação](#https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/1.%20Mapeamento%20de%20Dom%C3%ADnios%20Funcionais%20e%20Capacidades%20de%20Neg%C3%B3cio/README.md)
 3. [Configuração](#3-configuração)
 4. [Uso](#4-uso)
 5. [Exemplos](#5-exemplos)
