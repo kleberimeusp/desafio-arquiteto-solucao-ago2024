@@ -9,7 +9,7 @@
 
 ## Índices
 
-0. [Página Inícial, Informações, Descritivos da Solução e Projeto](#)
+0. [Página Inícial - Informações, Descritivos da Solução e Projeto](#)
 1. [Mapeamento de Domínios Funcionais e Capacidades de Negócio](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/1.%20Mapeamento%20de%20Dom%C3%ADnios%20Funcionais%20e%20Capacidades%20de%20Neg%C3%B3cio/README.md)
 2. [Refinamento de Requisitos Funcionais e Não Funcionais](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/2.%20Requisitos%20Funcionais%20e%20N%C3%A3o-Funcionais/README.md)
 3. [Arquitetura Alvo - Sistema de Controle de Fluxo de Caixa](https://github.com/kleberimeusp/desafio-arquiteto-solucao-ago2024/blob/main/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/3.%20Desenho%20da%20solu%C3%A7%C3%A3o%20completo%20(Arquitetura%20Alvo)/README.md)
