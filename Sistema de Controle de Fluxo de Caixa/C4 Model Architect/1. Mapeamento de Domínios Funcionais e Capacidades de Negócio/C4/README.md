@@ -14,7 +14,7 @@ Este README descreve a **primeira camada** do modelo C4, o **Diagrama de Context
 
 - **Sistema de Auditoria**: Um sistema ou serviço externo que recebe logs e relatórios detalhados dos lançamentos para fins de compliance ou auditoria.
 
-![alt text](structurizr-SystemContext-001.png)
+![alt text](C1/structurizr-SystemContext-001.png)
 
 ## Explicação:
 
@@ -33,14 +33,14 @@ Este README descreve a **primeira camada** do modelo C4, o **Diagrama de Context
 ### 1. **Diagrama de Containers (Camada 2)**:
   Podemos detalhar os principais containers deste sistema, como as aplicações, bancos de dados e interfaces externas que operam no **Sistema de Controle de Fluxo de Caixa**.
 
-  ![alt text](structurizr-Container-001.png)
+  ![alt text](C1/structurizr-Container-001.png)
 
 ### 2. **Diagrama de Componentes (Camada 3)**:
   Podemos detalhar os componentes internos de cada subsistema, como serviços de validação de transações, processamento de relatórios e outros serviços necessários para garantir o funcionamento correto do sistema.
 
-  ![alt text](structurizr-Components-001.png)
+  ![alt text](C1/structurizr-Components-001.png)
 
 ### 3. **Diagrama de Código (Camada 4)**:
   Se necessário, podemos detalhar implementações específicas no nível de código, incluindo as interações entre classes, módulos e bibliotecas que compõem os componentes do sistema.
 
-  ![alt text](structurizr-Components-Interns-001.png)
+  ![alt text](C1/structurizr-Components-Interns-001.png)

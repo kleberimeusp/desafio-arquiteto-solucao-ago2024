@@ -13,11 +13,14 @@ Este projeto visa implementar uma solução para o controle de fluxo de caixa co
 
 ### C1
 
-![alt text](/01%20-%20Objetivo/C4%20Model%20Architect/10.%20C4/C1/structurizr-SystemContext-001%20(3).png)
+![alt text](/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/0.%20default/10.%20C4/C1/structurizr-SystemContext-001%20(3).png)
+
+
+![alt text](/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/0.%20default/10.%20C4/C1/structurizr-SystemContext-001%20(4).png)
 
 ### C2
 
-![alt text](/01%20-%20Objetivo/C4%20Model%20Architect/10.%20C4/C2/structurizr-Container-001%20(5).png)
+![alt text](/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/0.%20default/10.%20C4/C2/structurizr-Container-001%20(5).png)
 
 ### Componentes Principais:
 
