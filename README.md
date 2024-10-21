@@ -5,6 +5,21 @@
 - *(MODELO DE README.MD QUE APLIQUEI EM CLIENTES INTERNACIONAIS NA AMERICA DO NORTE/EUROPA/INDIA/JAPÃO E AUSTRÁLIA).* 
 - *(TRADUZIDO PARA ESSE TESTE AQUI EM PORTUGUÊS).*
 
+---
+
+## Índices
+
+1. [Introdução](#1-introdução)
+2. [Instalação](#/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/1.%20Mapeamento%20de%20Domínios%20Funcionais%20e%20Capacidades%20de%20Negócio/README.md)
+3. [Configuração](#3-configuração)
+4. [Uso](#4-uso)
+5. [Exemplos](#5-exemplos)
+6. [API](#6-api)
+7. [Testes](#7-testes)
+8. [Contribuindo](#8-contribuindo)
+9. [Licença](#9-licença)
+
+
 ## Descrição do Projeto
 
 Este projeto visa implementar uma solução para o controle de fluxo de caixa com backend em **Node.js** e frontend em **React Native**, ambos hospedados na **Azure**. O sistema processa lançamentos financeiros (débitos e créditos) e gera relatórios consolidados diários. A solução utiliza os principais serviços da **Azure**, garantindo escalabilidade, alta disponibilidade e monitoramento.
@@ -110,20 +125,6 @@ Aqui está uma estimativa de custos aproximados com base nos serviços usados na
 
 ### **Total Estimado**:
 - **Custo total estimado**: R$ 1.500 a R$ 5.000/mês, dependendo do tráfego, armazenamento e requisitos de processamento.
-
----
-
-# Índices
-
-1. [Introdução](#1-introdução)
-2. [Instalação](#/Sistema%20de%20Controle%20de%20Fluxo%20de%20Caixa/C4%20Model%20Architect/1.%20Mapeamento%20de%20Domínios%20Funcionais%20e%20Capacidades%20de%20Negócio/README.md)
-3. [Configuração](#3-configuração)
-4. [Uso](#4-uso)
-5. [Exemplos](#5-exemplos)
-6. [API](#6-api)
-7. [Testes](#7-testes)
-8. [Contribuindo](#8-contribuindo)
-9. [Licença](#9-licença)
 
 ---
 
